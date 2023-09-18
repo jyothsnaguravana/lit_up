@@ -1,0 +1,15 @@
+COMMANDS IN GIT 
+
+1) git init : Initialise the git 
+
+STAGING AREA : The middle layer where all files can be chosen for commit or other activities 
+
+2) git status : check commit activities , view STAGING AREA 
+
+3) git add filename.type : to add foriengn file to staging area 
+
+4) git commit -m "msg"  : To save a file  
+
+5) git log : view all commit actions made in repository 
+
+6) 
