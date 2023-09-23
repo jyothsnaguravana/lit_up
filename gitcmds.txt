@@ -12,4 +12,8 @@ STAGING AREA : The middle layer where all files can be chosen for commit or othe
 
 5) git log : view all commit actions made in repository 
 
-6) git checkout : to revert back or roll back to a particular version of repository 
+6) git checkout : to revert back or roll back to a particular version of repository  
+
+7) git remote add origin <<url from github>>  : to link your local repository and internet remote repository 
+   git push -u origin main 
+ 
